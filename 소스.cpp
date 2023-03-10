@@ -5,6 +5,7 @@ Jieunm Seong, Hankuk University of Foreign Studies, Dept. of Comoputer Science a
 int main() {
 
 	printf("hello world!\n");
+	printf("%s\n","hello world!);
 	return 0;
 
 }
