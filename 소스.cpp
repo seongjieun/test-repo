@@ -5,7 +5,7 @@ Jieunm Seong, Hankuk University of Foreign Studies, Dept. of Comoputer Science a
 int main() {
 	
 	printf("hello hufs!\n");
-	printf("ye world!\n");
+	printf("bye world!??\n");
 	char*greeting = "hello world!";
 	printf("%s\n", greeting);
 	return 0;
