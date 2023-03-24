@@ -9,5 +9,6 @@ int main() {
 	char*greeting = "hello world!";
 	printf("%s\n", greeting);
 	return 0;
+	printf("코드수정하려 왔서영 쾌차하세영 ! ")
 
 }
