@@ -8,6 +8,8 @@ int main() {
 	printf("bye world!??\n");
 	char*greeting = "hello world!";
 	printf("%s\n", greeting);
+	
+	printf("이동영 왔다감\n");
 	return 0;
 
 }
